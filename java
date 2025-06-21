@@ -1,5 +1,5 @@
 Diagonal  (PRIMARY )
-
+	
 import java.util.Scanner;
 
     public class Main{
